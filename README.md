@@ -27,4 +27,4 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiraNiza&theme=dark&border_radius=6.2)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiraNizam&theme=dark&border_radius=6.2)](https://git.io/streak-stats)
